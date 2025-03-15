@@ -81,8 +81,8 @@ export default function Home() {
                 <h1 className="text-xl font-semibold tracking-wide text-blue-400">Stellar Tracer</h1>
                 <div className="space-x-6 flex items-center">
                     <Link href="/" className="hover:text-blue-300">Home</Link>
-                    <Link href="/about" className="hover:text-blue-300">About</Link>
-                    <Link href="/tool-usage" className="hover:text-blue-300">Tool Usage</Link>
+                    <Link href="/" className="hover:text-blue-300">About</Link>
+                    <Link href="/" className="hover:text-blue-300">Tool Usage</Link>
                     {/* Dark Mode Toggle */}
                     <button
                         className="bg-gray-700 hover:bg-gray-600 text-white px-4 py-2 rounded-md transition-all"
